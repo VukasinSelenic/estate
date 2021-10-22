@@ -142,6 +142,8 @@ header .navbar-light .navbar-nav .nav-link.active {
 .project img:hover {
     transform: scale(0.9);
 }
+.project {
+    padding-top: 100px;
 #contact {
-    padding-top: 50px;
+    padding-top: 100px;
 }
