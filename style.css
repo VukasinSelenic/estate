@@ -4,6 +4,9 @@
     font-family: 'Poppins', sans-serif;
     
 }
+body {
+    background-color: #262626;
+}
 img {
     max-width: 100%;
 }
