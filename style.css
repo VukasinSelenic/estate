@@ -129,21 +129,14 @@ header .navbar-light .navbar-nav .nav-link.active {
     margin-top: 50px;
     font-size: 14px;
 }
-.project h2 {
-    margin-top: 40px;
-    margin-bottom: 40px;
-    font-weight: 700;
+.slider  {
+    
+    max-width: 700px;
+    margin: 0 auto;
 }
-.project img {
-    border: 1px solid #9a8a78;
-    transition: 0.3s;
-    transform: scale(1);
-}
-.project img:hover {
-    transform: scale(0.9);
-}
-#project {
-    padding-top: 100px;
+#carouselExampleControls {
+    margin-top: 50px;
+    
 }
 #contact {
     padding-top: 100px;
